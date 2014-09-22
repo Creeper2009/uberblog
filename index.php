@@ -11,10 +11,6 @@
 					<p>Sample Text</p>
 				</div>
 				<div id="content">
-					
-					<div class="News">
-					    <marquee><h3>News</h3></marquee>
-					</div>
 					<?php include('posts.php'); ?>
 				</div>
 			</div>
