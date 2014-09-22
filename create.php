@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Create stuff</title>
+		<title>Make a new post</title>
 	</head>
 	<body>
 		<h1>Add post</h1>
