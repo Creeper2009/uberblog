@@ -11,7 +11,7 @@
 					<p>Sample Text</p>
 				</div>
 				<div id="content">
-					<?php readfile("posts.html"); ?>
+					<?php include('posts.php'); ?>
 				</div>
 			</div>
 	</body>

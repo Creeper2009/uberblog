@@ -21,9 +21,9 @@
 		$title = stripslashes(htmlspecialchars($_POST['title']));
 		$post = stripslashes(htmlspecialchars($_POST['post']));
 		$date = date("F d, Y");
-		$file = 'posts.php'
+		$file = 'posts.php';
 		
-		if(empty($user) || empty($title) || empty($post)) {
+		 if(empty($user) || empty($title) || empty($post)) {
 			echo 'One or more fields are empty!';
 		} else {
 			$content = file_get_contents($file);
