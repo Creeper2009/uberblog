@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 	<head>
-		<title>Index</title>
+		<title>Uberblog</title>
 		<link type="text/css" rel="stylesheet" href="style.css" />
 	</head>
 	<body>
